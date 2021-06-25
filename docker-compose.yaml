@@ -3,6 +3,5 @@ services:
   perkeep:
     image: mwaeckerlin/perkeep
     build: .
-    #entrypoint: /bin/ls -R /home/somebody/.config/
     ports:
       - "3179:3179"
