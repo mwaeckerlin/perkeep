@@ -1,0 +1,8 @@
+{
+  "auth": "auth:admin:admin",
+  "listen": ":3179",
+  "camliNetIP": "",
+  "blobPath": "/data",
+  "packRelated": true,
+  "levelDB": "/db/index.leveldb"
+}
